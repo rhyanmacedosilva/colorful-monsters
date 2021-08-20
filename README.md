@@ -19,5 +19,5 @@ Como trata-se de um projeto relativamente simples, mesmo as versões mais atuais
 ## Tecnologias utilizadas
 * [Unity](https://unity.com/) (Desenvolvimento do projeto)
 * [GIMP](https://www.gimp.org/) (Criação da arte do jogo)
-* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) (Linguagem utilizada para o desenvolvimento dos scripts)
+* [C Sharp](https://docs.microsoft.com/en-us/dotnet/csharp/) (Linguagem utilizada para o desenvolvimento dos scripts)
 * [simmer.io](https://simmer.io/) (Hosting)
