@@ -15,3 +15,9 @@ Porém é necessário ter cuidado, cada inimigo terá uma cor diferente, e você
 Este projeto foi desenvolvido fazendo uso da [Unity Engine](https://unity.com/), e qualquer versão da engine com release no ano de 2020 deve ser capaz de abrir / fazer a build deste projeto.
 
 Como trata-se de um projeto relativamente simples, mesmo versões as versões mais atuais da engine devem ser capazes de compilá-lo sem maiores problemas.
+
+## Tecnologias utilizadas
+* Unity (desenvolvimento do projeto)
+* Gimp (criação da arte do jogo)
+* C# (linguagem utilizada para o desenvolvimento dos scripts)
+* simmer.io (hosting)
