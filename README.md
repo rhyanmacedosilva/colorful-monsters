@@ -6,8 +6,6 @@ Na época que desenvolvi este jogo, aprendi a respeito do site [simmer.io](https
 
 Jogue em **tela cheia** para uma melhor experiência. O prório simmer.io disponibiliza um botão que deixa o jogo neste formato.
 
-![Um pouquinho da gameplay](https://i.imgur.com/ANsdRfX.jpg)
-
 ## Mas como o jogo funciona?
 Dada a proposta, a jogabilidade é bem simples. O jogador controla um astronauta cuja nave foi invadida por seres de um planeta hostil. Usando o **Mouse 1** você dispara o laser do nosso herói para combater estas criaturas ameaçadoras.
 
